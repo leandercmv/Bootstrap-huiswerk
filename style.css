@@ -1,0 +1,28 @@
+footer {
+  min-height: 200px;
+  background-color: #66ccff;
+}
+
+img {
+  display: inline-block;
+  max-width: 100%;
+  margin: 5px;
+}
+
+.container-sm {
+  margin-top: 25px;
+  margin-bottom: 350px;
+}
+
+td {
+  padding: 5px;
+}
+
+.btn {
+  color: #000000;
+  border-radius: 2px;
+}
+.btn:hover {
+  background-color: #ccffff;
+  color: #000000;
+}
